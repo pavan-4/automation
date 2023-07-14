@@ -1,2 +1,5 @@
 Firstly install selenium, by entering command in terminal:
 pip install selenium
+secondly, install chromedriver in your system
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+after downloading the chromedriver add this chromedriver Path to your system environment variable 
